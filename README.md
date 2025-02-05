@@ -4,6 +4,6 @@ This repository contains a Power BI dashboard that provides key insights into en
 ✅ Revenue Insights – Analyze the total revenue generated from enrollments.
 ✅ Age-Wise Registration Trends – Identify enrollment patterns based on different age groups.
 ✅ Interactive Visuals – Use slicers and filters to drill down into specific data points.
-      🔧 Requirements
+      🔧 **Requirements**
 Power BI Desktop 
 Data source connection 
